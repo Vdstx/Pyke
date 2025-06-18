@@ -1,7 +1,6 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
@@ -25,12 +24,10 @@ a,
   body {
     display: flex;
     place-items: center;
-    background-color: #fefcfa;
-
+    background-color: hsla(0, 0%, 100%, 1);
   }
 
   #app {
-    display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
