@@ -4,7 +4,7 @@
 |     |  |  \ |___ 
                    
 ```
-🔐 Pyke – Infrastructure de Sécurité Open Source pour les PME
+🔐 Pyke – Infrastructure de Sécurité Open Source pour les PME.
 Pyke est une solution modulaire, open source et sobre destinée à renforcer la sécurité réseau des petites et moyennes entreprises. Conçu pour être facile à déployer, peu coûteux, et interopérable, Pyke intègre les briques essentielles à une protection moderne : VPN, IDS/IPS, pare-feu, DNS sécurisé, PKI, et bien plus.
 
 🎯 Objectifs
@@ -53,7 +53,7 @@ Pyke est une solution modulaire, open source et sobre destinée à renforcer la 
 
 --------------------------------
 
-🇬🇧 README – Pyke: Open Source Security Infrastructure
+🇬🇧 README – Pyke: Open Source Security Infrastructure.
 🔐 Pyke – Lightweight Open Source Security Infrastructure for SMEs
 Pyke is a modular, open source, and sustainable cybersecurity solution designed to secure the networks and communications of small and medium-sized enterprises. Easy to deploy, cost-efficient, and interoperable, Pyke integrates the core components of modern security: VPN, IDS/IPS, firewall, secure DNS, PKI, and more.
 
